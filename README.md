@@ -1,6 +1,6 @@
 # felidetect
 
-# Cat call classification
+# Feline call classification
 
 
 The goal of this project is to develop an audio classification system for calls made by species in the felidae family.
