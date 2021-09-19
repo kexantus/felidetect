@@ -1,0 +1,3 @@
+Species,Sex (if known),Age (if known),Start Time,End Time,Type of Call,Quality of Segment,Notes
+Ocelot,,Adult,18.058,21.331,main call,0,
+Ocelot,,Adult,30.253,34.279,growl,1,"faint, but it is distiguishable"

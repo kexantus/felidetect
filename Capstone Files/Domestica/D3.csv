@@ -1,0 +1,4 @@
+Species,Sex (if known),Age (if known),Start Time,End Time,Type of Call,Quality of Segment,Notes
+Domestic Cat,Female ,Adult ,1.068,4.074,growl,2,there is some background noise behind the growl
+Domestic Cat,Female ,Adult ,10.334,13.439,growl,2,
+Domestic Cat,Female ,Adult ,14.557,15.65,hiss,1,

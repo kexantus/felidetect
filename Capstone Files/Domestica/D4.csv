@@ -1,0 +1,11 @@
+Species,Sex (if known),Age (if known),Start Time(seconds),End Time(seconds),Type of Call,Quality of Segment,Notes
+Domestic Cat,Male,Juvenile ,0.552,2.9,purr,0,
+Domestic Cat,Male,Juvenile ,4.558,7.32,purr,0,
+Domestic Cat,Male,Juvenile ,8.839,11.049,purr,0,
+Domestic Cat,Male,Juvenile ,13.535,14.778,purr,0,
+Domestic Cat,Male,Juvenile ,37.705,39.501,purr,0,
+Domestic Cat,Male,Juvenile ,44.473,55.522,purr sequence,0,
+Domestic Cat,Male,Juvenile ,58.975,70.3,purr sequence,0,
+Domestic Cat,Male,Juvenile ,94.884,97.37,purr,0,
+Domestic Cat,Male,Juvenile ,115.187,126.788,purr sequence,0,
+Domestic Cat,Male,Juvenile ,135.904,141.29,purr sequence,0,

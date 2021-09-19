@@ -1,0 +1,5 @@
+Species ,Sex (if known),Age (if known),Start Time,End Time,Type of Call,Quality of Segment,Notes
+L. lynx,P,Adult,0,12,growl,0,
+L. lynx,P,Adult,14,20,growl,0,
+L. lynx,P,Adult,22,25,growl,0,
+L. lynx,P,Adult,25,27,roar?,0,

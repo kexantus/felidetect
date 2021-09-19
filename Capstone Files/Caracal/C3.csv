@@ -1,0 +1,8 @@
+Species ,Sex (if known),Age (if known),Start Time,End Time,Type of Call,Quality of Segment,Notes
+Caracal Carcal,,Adult,0,3.36,growl,0,
+Caracal Carcal,,Adult,3.36,5.31,hiss,0,
+Caracal Carcal,,Adult,6.04,12.28,growl,1,
+Caracal Carcal,,Adult,12.28,15.06,hiss,1,
+Caracal Carcal,,Adult,22.21,28.25,growl,2,
+Caracal Carcal,,Adult,33.09,35.06,hiss,1,
+Caracal Carcal,,Adult,35.06,40.05,growl,1,

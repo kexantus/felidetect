@@ -1,0 +1,5 @@
+Species ,Sex (if known),Age (if known),Start Time,End Time,Type of Call,Quality of Segment,Notes
+L. lynx,G,Juvenile,1,3,call,0,
+L. lynx,G,Juvenile,6,13,growl?,0,
+L. lynx,G,Juvenile,14,27,growl?,0,
+L. lynx,G,Juvenile,34,41,growl ,0,
